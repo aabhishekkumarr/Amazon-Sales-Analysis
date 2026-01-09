@@ -1,4 +1,5 @@
- Key Business Insights – Amazon Sales Analysis
+ Key Business Insights – Amazon Sales Analysis 
+ 
 1️⃣ Revenue Concentration
 
 A relatively small group of products contributes a disproportionately large share of total revenue. This indicates strong revenue concentration among top-performing items, suggesting that focused inventory planning and targeted promotions on these products can significantly impact overall sales.
@@ -32,5 +33,6 @@ Shipping costs represent a noticeable operational expense when aggregated across
 The majority of orders are successfully completed, indicating stable order fulfillment operations. However, monitoring cancelled or pending orders can further enhance customer satisfaction and operational efficiency.
 
 ✅ Summary
+
 
 Overall, the analysis reveals that revenue growth is driven by a combination of high-performing products, repeat customers, and effective pricing strategies. By focusing on customer retention, optimizing discounts, and improving operational efficiency, the business can enhance profitability and long-term growth.
